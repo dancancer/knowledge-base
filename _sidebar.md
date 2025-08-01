@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 - AI 相关
   - [Gemini CLI 代码解析](AI相关/GeminiCLI代码解析.md)
+  - [Gemini CLI 交互记录分析.md](AI相关/GeminiCLI交互记录分析.md)
 - 可视化编辑器相关
   - [页面可视化搭建溯源](可视化编辑器相关/页面可视化搭建溯源.md)
   - [简单的DOM元素拖拽实现](可视化编辑器相关/简单的DOM元素拖拽实现.md)
